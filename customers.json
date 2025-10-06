@@ -1,0 +1,162 @@
+[
+    {
+        "customer_id": "C001",
+        "name": "Xstkr Xcyrvtp",
+        "email": "xstkr.xcyrvtp@example.com",
+        "phone_number": "1983117090",
+        "signup_date": "2024-04-14",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C002",
+        "name": "Kns Rjxog",
+        "email": "kns.rjxog@example.com",
+        "phone_number": "3644934420",
+        "signup_date": "2023-10-28",
+        "status": "active"
+    },
+    {
+        "customer_id": "C003",
+        "name": "Jdvw Nsbi",
+        "email": "jdvw.nsbi@example.com",
+        "phone_number": "6158119049",
+        "signup_date": "2024-02-20",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C004",
+        "name": "Exte Oiwt",
+        "email": "exte.oiwt@example.com",
+        "phone_number": "4716953287",
+        "signup_date": "2024-01-12",
+        "status": "active"
+    },
+    {
+        "customer_id": "C005",
+        "name": "Uedwk Yajerac",
+        "email": "uedwk.yajerac@example.com",
+        "phone_number": "9459239570",
+        "signup_date": "2024-10-22",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C006",
+        "name": "Tywms Uzkuhjp",
+        "email": "tywms.uzkuhjp@example.com",
+        "phone_number": "1444061755",
+        "signup_date": "2023-04-14",
+        "status": "active"
+    },
+    {
+        "customer_id": "C007",
+        "name": "Jcgfga Lmog",
+        "email": "jcgfga.lmog@example.com",
+        "phone_number": "4935766378",
+        "signup_date": "2024-09-18",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C008",
+        "name": "Kozlhq Wyogt",
+        "email": "kozlhq.wyogt@example.com",
+        "phone_number": "5145382782",
+        "signup_date": "2025-01-05",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C009",
+        "name": "Yujmhh Giqy",
+        "email": "yujmhh.giqy@example.com",
+        "phone_number": "3885608853",
+        "signup_date": "2024-05-21",
+        "status": "active"
+    },
+    {
+        "customer_id": "C010",
+        "name": "Sdcm Ztlgek",
+        "email": "sdcm.ztlgek@example.com",
+        "phone_number": "7109349918",
+        "signup_date": "2025-01-26",
+        "status": "active"
+    },
+    {
+        "customer_id": "C011",
+        "name": "Ckby Gzccgm",
+        "email": "ckby.gzccgm@example.com",
+        "phone_number": "5623529665",
+        "signup_date": "2024-09-14",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C012",
+        "name": "Fpnuh Mnihm",
+        "email": "fpnuh.mnihm@example.com",
+        "phone_number": "5400460701",
+        "signup_date": "2025-03-02",
+        "status": "active"
+    },
+    {
+        "customer_id": "C013",
+        "name": "Ywpxa Wsanoi",
+        "email": "ywpxa.wsanoi@example.com",
+        "phone_number": "1770315660",
+        "signup_date": "2023-08-01",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C014",
+        "name": "Zss Wdbs",
+        "email": "zss.wdbs@example.com",
+        "phone_number": "1688081443",
+        "signup_date": "2024-06-26",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C015",
+        "name": "Kijqk Zxxyuj",
+        "email": "kijqk.zxxyuj@example.com",
+        "phone_number": "2693037992",
+        "signup_date": "2025-06-09",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C016",
+        "name": "Gfegdt Ibvep",
+        "email": "gfegdt.ibvep@example.com",
+        "phone_number": "5098976396",
+        "signup_date": "2024-04-18",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C017",
+        "name": "Yepgmi Zdjqvwr",
+        "email": "yepgmi.zdjqvwr@example.com",
+        "phone_number": "6325291300",
+        "signup_date": "2023-11-16",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C018",
+        "name": "Rbopln Syeduo",
+        "email": "rbopln.syeduo@example.com",
+        "phone_number": "0388422294",
+        "signup_date": "2025-12-02",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C019",
+        "name": "Lgdysd Zphaivy",
+        "email": "lgdysd.zphaivy@example.com",
+        "phone_number": "4171781882",
+        "signup_date": "2025-08-18",
+        "status": "active"
+    },
+    {
+        "customer_id": "C020",
+        "name": "Ursqe Pfmf",
+        "email": "ursqe.pfmf@example.com",
+        "phone_number": "2567332032",
+        "signup_date": "2023-06-13",
+        "status": "inactive"
+    }
+]
