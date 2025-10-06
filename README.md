@@ -41,6 +41,8 @@ The bookings detail format is as such
 
 ![bookings](pics/bookings.png)
 
+You can look at the json files [bookings.json](bookings.json) & [customers.json](customers.json) 
+
 The databricks structure looks as such
 
 ![dbx struct](pics/databricks.png)
